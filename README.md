@@ -85,15 +85,14 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
 ## 🌐 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" alt="Abhishek's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 ---
 
 ## 🎯 Goals
