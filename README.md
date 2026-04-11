@@ -122,12 +122,27 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
 
 ## 🤝 Connect With Me
 
+<a href="https://github.com/Abhishekaaryabgp">
+    <img src="https://img.shields.io/badge/GitHub-Abhishekaaryabgp-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  > ## 🤝 Connect With Me
+
 <p>
   <a href="https://github.com/Abhishekaaryabgp">
     <img src="https://img.shields.io/badge/GitHub-Abhishekaaryabgp-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+> 💬 Open to internships, collaborations, and entry-level frontend opportunities.  
 ---
 
 <p align="center">
