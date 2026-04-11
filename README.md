@@ -129,8 +129,10 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br/>
   
 > 💬 Open to internships, collaborations, and entry-level frontend opportunities.  
+
 ---
 
 <p align="center">
