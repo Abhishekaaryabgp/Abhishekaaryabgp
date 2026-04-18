@@ -62,9 +62,16 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 🔹 Fully responsive modern UI
 * 🔹 Focused on layout precision
 
-🔗 **Repo:** https://github.com/Abhishekaaryabgp
+💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone)
 
-![Gemini Preview](ADD_YOUR_SCREENSHOT_LINK)
+#### 🖥️ Desktop view
+![Desktop](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/desktop.png)
+
+#### 📱 Mobile view
+![Mobile](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/mobileview.png)
+
+#### 🖥️ Full View
+![Full](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/full.png)
 
 ---
 
