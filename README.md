@@ -81,12 +81,6 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 🔹 Responsive UI design
 * 🔹 Includes sidebar & player layout
 
-## 🎵 Spotify Clone
-
-- Built using **HTML & CSS**
-- Responsive UI design
-- Includes sidebar & player layout
-
 💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)
 
 ### 🖥️ Desktop View
