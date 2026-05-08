@@ -81,13 +81,25 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 🔹 Responsive UI design
 * 🔹 Includes sidebar & player layout
 
-[🔗 View Spotify Clone Repository](https://github.com/Abhishekaaryabgp/spotify-clone)
+## 🎵 Spotify Clone
 
-![Spotify Desktop Preview](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/desktop-view.png)
+- Built using **HTML & CSS**
+- Responsive UI design
+- Includes sidebar & player layout
 
-![Spotify Tablet Preview](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/tablet-view.png)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)
 
-![Spotify Fullscreen Preview](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/fullscreen-view.png)
+### 🖥️ Desktop View
+
+![Desktop View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/desktop-view.png)
+
+### 📱 Tablet View
+
+![Tablet View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/tablet-view.png)
+
+### 📺 Fullscreen View
+
+![Fullscreen View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/fullscreen-view.png)
 
 ---
 
