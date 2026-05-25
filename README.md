@@ -29,6 +29,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 💻 Strong in **HTML, CSS & Responsive Design**
 * 🌱 Learning **React → Backend (Node, Express, MongoDB)**
 * 🎯 Goal: Land my **first developer job** & grow into a **Full Stack Developer**
+* 🌐 Portfolio: [abhi-portfolio-ebon.vercel.app](https://abhi-portfolio-ebon.vercel.app)
 * 🐛 Fun fact: I fix bugs by staring at the screen long enough 😄
 
 ---
@@ -86,7 +87,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 🔹 Fully responsive modern UI
 * 🔹 Focused on layout precision
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone) | 🌐 [Live Demo](https://abhishekaaryabgp.github.io/gemini-ui-clone)
 
 #### 🖥️ Desktop view
 ![Desktop](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/desktop.png)
@@ -105,7 +106,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 * 🔹 Responsive UI design
 * 🔹 Includes sidebar & player layout
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone) | 🌐 [Live Demo](https://abhishekaaryabgp.github.io/spotify-clone)
 
 #### 🖥️ Desktop View
 ![Desktop View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/desktop-view.png)
@@ -173,7 +174,6 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
   <a href="https://abhi-portfolio-ebon.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Abhi--Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  * 🌐 Portfolio: [abhi-portfolio-ebon.vercel.app](https://abhi-portfolio-ebon.vercel.app)
   <br/>
   
 > 💬 Open to internships, collaborations, and entry-level frontend opportunities.  
