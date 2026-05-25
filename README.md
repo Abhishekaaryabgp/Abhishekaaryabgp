@@ -75,7 +75,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 #### 📱 Mobile View
 ![Mobile](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/mobile-screen.png)
 
-#### 💊 Tablet View
+#### 💊 Full View
 ![Tablet](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/full-screen.png)
 
 ---
