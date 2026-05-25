@@ -56,7 +56,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 
 ## 🚀 Projects
 
-### 🤖 Gemini AI Clone
+### 🤖 Gemini UI Clone
 
 * 🔹 Built using **HTML & CSS (No JavaScript)**
 * 🔹 Fully responsive modern UI
