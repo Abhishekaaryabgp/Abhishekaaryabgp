@@ -27,7 +27,7 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 
 * 🎓 Bachelor of Computer Applications (BCA)
 * 💻 Strong in **HTML, CSS & Responsive Design**
-* 🌱 Learning **JavaScript → React → Backend (Node, Express, MongoDB)**
+* 🌱 Learning **React → Backend (Node, Express, MongoDB)**
 * 🎯 Goal: Land my **first developer job** & grow into a **Full Stack Developer**
 * 🐛 Fun fact: I fix bugs by staring at the screen long enough 😄
 
@@ -37,24 +37,48 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 
 ### 💻 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🚀 Currently Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Projects
+
+### 🎬 CineMizaaj
+
+* 🔹 Mood-based **Bollywood movie recommendation** web app
+* 🔹 Built using **HTML, CSS, JavaScript & TMDB API**
+* 🔹 Fully responsive across all screen sizes
+* 🔹 Real movie posters, plots and release dates
+
+💻 [Source Code](https://github.com/Abhishekaaryabgp/CineMizaaj) | 🌐 [Live Demo](https://cine-mizaaj.vercel.app)
+
+#### 🖥️ Desktop View
+![Desktop](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/desktop-screen.png)
+
+#### 📱 Mobile View
+![Mobile](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/mobile-screen.png)
+
+#### 💊 Tablet View
+![Tablet](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/full-screen.png)
+
+---
 
 ### 🤖 Gemini UI Clone
 
@@ -83,33 +107,42 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 
 💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)
 
-### 🖥️ Desktop View
-
+#### 🖥️ Desktop View
 ![Desktop View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/desktop-view.png)
 
-### 📱 Tablet View
-
+#### 📱 Tablet View
 ![Tablet View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/tablet-view.png)
 
-### 📺 Fullscreen View
-
+#### 📺 Fullscreen View
 ![Fullscreen View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/fullscreen-view.png)
 
 ---
 
-> 🔨 More projects coming soon — currently building with JavaScript.
+> 🔨 More projects coming soon — currently moving into React.js!
 
 ---
 
 ## 📈 Current Focus
 
 ```text
-JavaScript        ████████░░░░░░░░   Learning Core Concepts
-Git & GitHub      ██████░░░░░░░░░░   Getting Comfortable
-Node.js           ████░░░░░░░░░░░░   On the Roadmap
+JavaScript        ████████████░░░░   Completed ✅
+Git & GitHub      ████████████░░░░   Completed ✅
+React.js          ████░░░░░░░░░░░░   Currently Learning
+Node.js           ██░░░░░░░░░░░░░░   On the Roadmap
 Express.js        ██░░░░░░░░░░░░░░   Coming Soon
 SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
 ```
+
+---
+
+## 🎯 Goals
+
+* [x] Complete JavaScript fundamentals
+* [x] Build real-world JavaScript projects
+* [ ] Learn React.js
+* [ ] Build first full stack app
+* [ ] Land my **first developer job**
+* [ ] Become a confident **Full Stack Developer**
 
 ---
 
@@ -124,16 +157,6 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
----
-
-## 🎯 Goals
-
-* [ ] Complete JavaScript fundamentals
-* [ ] Build real-world JavaScript projects
-* [ ] Build first full stack app
-* [ ] Land my **first developer job**
-* [ ] Become a confident **Full Stack Developer**
 
 ---
 
