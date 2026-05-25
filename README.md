@@ -169,6 +169,11 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://abhi-portfolio-ebon.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Abhi--Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  * 🌐 Portfolio: [abhi-portfolio-ebon.vercel.app](https://abhi-portfolio-ebon.vercel.app)
   <br/>
   
 > 💬 Open to internships, collaborations, and entry-level frontend opportunities.  
