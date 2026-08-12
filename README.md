@@ -186,11 +186,21 @@ Tailwind CSS        █████░░░░░░░░░░░   Currently
 
 ## 🎯 Goals
 
+* [x] Complete HTML & CSS fundamentals
 * [x] Complete JavaScript fundamentals
 * [x] Build real-world JavaScript projects
-* [x] Learn Node.js & Express basics
-* [ ] Learn React.js
-* [ ] Build first full stack app
+* [x] Learn Bootstrap
+* [x] Learn Node.js
+* [x] Learn Express.js
+* [x] Learn REST APIs
+* [x] Learn EJS
+* [x] Learn MongoDB & MySQL
+* [x] Practice CRUD Operations
+* [x] Understand MVC Architecture
+* [ ] Improve React.js skills
+* [ ] Learn Tailwind CSS
+* [ ] Build a full-stack web application
+* [ ] Deploy a full-stack project
 * [ ] Land my **first developer job**
 * [ ] Become a confident **Full Stack Developer**
 
@@ -198,8 +208,19 @@ Tailwind CSS        █████░░░░░░░░░░░   Currently
 
 ## 🌐 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" /> &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" /> </p>
+<p align="center">
+  <a href="https://github.com/abhishekaaryabgp">
+    <img src="https://github-stats-extended.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abhishekaaryabgp">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 ---
 
 ## 🤝 Connect With Me
