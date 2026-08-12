@@ -41,21 +41,41 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-### 🔧 Tools
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### 🧠 Core Concepts
+
+![JavaScript OOP](https://img.shields.io/badge/JavaScript_OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🚀 Currently Learning
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -128,10 +148,11 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 ```text
 JavaScript        ████████████░░░░   Completed ✅
 Git & GitHub      ████████████░░░░   Completed ✅
+Node.js & Express ████████░░░░░░░░   Completed ✅
+Core Concepts     ████████░░░░░░░░   Completed ✅
 React.js          ████░░░░░░░░░░░░   Currently Learning
-Node.js           ██░░░░░░░░░░░░░░   On the Roadmap
-Express.js        ██░░░░░░░░░░░░░░   Coming Soon
-SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
+Tailwind CSS      ████░░░░░░░░░░░░   Currently Learning
+SQL & MongoDB     ████░░░░░░░░░░░░   In Progress
 ```
 
 ---
@@ -140,6 +161,7 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
 
 * [x] Complete JavaScript fundamentals
 * [x] Build real-world JavaScript projects
+* [x] Learn Node.js & Express basics
 * [ ] Learn React.js
 * [ ] Build first full stack app
 * [ ] Land my **first developer job**
@@ -167,7 +189,7 @@ SQL & MongoDB     ██░░░░░░░░░░░░░░   Coming Soon
     <img src="https://img.shields.io/badge/GitHub-Abhishekaaryabgp-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/iamabhishekkumar-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
