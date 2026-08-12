@@ -209,12 +209,12 @@ Tailwind CSS        █████░░░░░░░░░░░   Currently
 ## 🌐 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/abhishekaaryabgp">
+  <a href="https://github.com/Abhishekaaryabgp">
     <img src="https://github-stats-extended.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
   </a>
   &nbsp;
-  <a href="https://github.com/abhishekaaryabgp">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
+  <a href="https://github.com/Abhishekaaryabgp">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&hide=c,c%2B%2B,java,c%23&langs_count=6&cache_seconds=86400" width="47%" />
   </a>
 </p>
 
