@@ -1,13 +1,15 @@
+# 👋 Hi, I'm Abhishek Kumar
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abhishek%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Developer;Building+Projects+Daily+🚀;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Future+Full+Stack+Developer;Building+Projects+Daily+🚀;Learning+Every+Day" />
 </p>
 
 <p align="center">
-  <b>Frontend Developer → Learning Backend → Becoming Full Stack 🚀</b><br/>
+  <b>Frontend Developer → Backend Developer → Becoming Full Stack 🚀</b><br/>
   <i>Building real things • Learning every day • Growing consistently</i>
 </p>
 
@@ -23,32 +25,41 @@
 
 ## 🧑‍💻 About Me
 
-I'm a BCA graduate and self-driven developer focused on building clean, responsive web interfaces — currently leveling up my skills in JavaScript and backend development.
+I'm a BCA graduate and self-driven developer focused on building clean, responsive web applications. I started with frontend development and have expanded my skills into backend development, databases, APIs, and application architecture.
 
-* 🎓 Bachelor of Computer Applications (BCA)
-* 💻 Strong in **HTML, CSS & Responsive Design**
-* 🌱 Learning **React → Backend (Node, Express, MongoDB)**
-* 🎯 Goal: Land my **first developer job** & grow into a **Full Stack Developer**
-* 🌐 Portfolio: [abhi-portfolio-ebon.vercel.app](https://abhi-portfolio-ebon.vercel.app)
-* 🐛 Fun fact: I fix bugs by staring at the screen long enough 😄
+- 🎓 Bachelor of Computer Applications (BCA)
+- 💻 Strong foundation in **HTML, CSS, JavaScript & Responsive Design**
+- 🎨 Experience with **Bootstrap**
+- ⚙️ Backend development with **Node.js, Express.js & EJS**
+- 🔗 Experience with **REST APIs**
+- 🗄️ Working with **MongoDB & MySQL**
+- 🧠 Familiar with **JavaScript OOP, CRUD Operations & MVC Architecture**
+- 🛠️ Comfortable with **Git, GitHub, npm, VS Code & Chrome DevTools**
+- 🌱 Currently improving my skills in **React.js & Tailwind CSS**
+- 🎯 Goal: Land my **first developer job** and grow into a **Full Stack Developer**
+- 🌐 Portfolio: [abhi-portfolio-ebon.vercel.app](https://abhi-portfolio-ebon.vercel.app)
+- 🐛 Fun fact: I fix bugs by staring at the screen long enough 😄
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Frontend
+### 💻 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=google-chrome&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-### ⚙️ Backend
+> ⚛️ React.js & Tailwind CSS — **Currently Learning**
+
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### 🗄️ Database
@@ -56,26 +67,21 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Developer Tools
+### 🧰 Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-190B2D?style=for-the-badge&logo=hoppscotch&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### 🧠 Core Concepts
 
 ![JavaScript OOP](https://img.shields.io/badge/JavaScript_OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🚀 Currently Learning
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-009688?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6C63FF?style=for-the-badge)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-FF9800?style=for-the-badge)
 
 ---
 
@@ -83,76 +89,97 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 
 ### 🎬 CineMizaaj
 
-* 🔹 Mood-based **Bollywood movie recommendation** web app
-* 🔹 Built using **HTML, CSS, JavaScript & TMDB API**
-* 🔹 Fully responsive across all screen sizes
-* 🔹 Real movie posters, plots and release dates
+- 🔹 Mood-based **Bollywood movie recommendation** web app
+- 🔹 Built using **HTML, CSS, JavaScript & TMDB API**
+- 🔹 Fully responsive across all screen sizes
+- 🔹 Real movie posters, plots and release dates
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/CineMizaaj) | 🌐 [Live Demo](https://cine-mizaaj.vercel.app)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/CineMizaaj)  
+🌐 [Live Demo](https://cine-mizaaj.vercel.app)
 
 #### 🖥️ Desktop View
+
 ![Desktop](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/desktop-screen.png)
 
 #### 📱 Mobile View
+
 ![Mobile](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/mobile-screen.png)
 
 #### 💊 Full View
-![Tablet](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/full-screen.png)
+
+![Full View](https://raw.githubusercontent.com/Abhishekaaryabgp/CineMizaaj/main/preview/full-screen.png)
 
 ---
 
 ### 🤖 Gemini UI Clone
 
-* 🔹 Built using **HTML & CSS (No JavaScript)**
-* 🔹 Fully responsive modern UI
-* 🔹 Focused on layout precision
+- 🔹 Built using **HTML & CSS**
+- 🔹 No JavaScript used
+- 🔹 Fully responsive modern UI
+- 🔹 Focused on layout precision and responsive design
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone) | 🌐 [Live Demo](https://abhishekaaryabgp.github.io/gemini-ui-clone)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone)  
+🌐 [Live Demo](https://abhishekaaryabgp.github.io/gemini-ui-clone)
 
-#### 🖥️ Desktop view
+#### 🖥️ Desktop View
+
 ![Desktop](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/desktop.png)
 
-#### 📱 Mobile view
+#### 📱 Mobile View
+
 ![Mobile](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/mobileview.png)
 
 #### 🖥️ Full View
-![Full](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/full.png)
+
+![Full View](https://raw.githubusercontent.com/Abhishekaaryabgp/gemini-ui-clone/main/preview/full.png)
 
 ---
 
 ### 🎵 Spotify Clone
 
-* 🔹 Built using **HTML & CSS**
-* 🔹 Responsive UI design
-* 🔹 Includes sidebar & player layout
+- 🔹 Built using **HTML & CSS**
+- 🔹 Responsive UI design
+- 🔹 Sidebar and music player layout
+- 🔹 Focused on recreating a modern music streaming interface
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone) | 🌐 [Live Demo](https://abhishekaaryabgp.github.io/spotify-clone)
+💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)  
+🌐 [Live Demo](https://abhishekaaryabgp.github.io/spotify-clone)
 
 #### 🖥️ Desktop View
+
 ![Desktop View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/desktop-view.png)
 
 #### 📱 Tablet View
+
 ![Tablet View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/tablet-view.png)
 
 #### 📺 Fullscreen View
+
 ![Fullscreen View](https://raw.githubusercontent.com/Abhishekaaryabgp/spotify-clone/main/preview/fullscreen-view.png)
 
 ---
 
-> 🔨 More projects coming soon — currently moving into React.js!
+> 🔨 More projects coming soon — currently expanding into **React.js & Full Stack Development**!
 
 ---
 
 ## 📈 Current Focus
 
 ```text
-JavaScript        ████████████░░░░   Completed ✅
-Git & GitHub      ████████████░░░░   Completed ✅
-Node.js & Express ████████░░░░░░░░   Completed ✅
-Core Concepts     ████████░░░░░░░░   Completed ✅
-React.js          ████░░░░░░░░░░░░   Currently Learning
-Tailwind CSS      ████░░░░░░░░░░░░   Currently Learning
-SQL & MongoDB     ████░░░░░░░░░░░░   In Progress
+HTML & CSS          ████████████████   Strong Foundation ✅
+JavaScript          ████████████████   Completed ✅
+Bootstrap           ████████████████   Learned ✅
+Git & GitHub        ████████████████   Completed ✅
+Node.js             ████████████████   Learned ✅
+Express.js          ████████████████   Learned ✅
+REST APIs           ████████████████   Learned ✅
+EJS                 ████████████████   Learned ✅
+MongoDB             ████████████████   Learned ✅
+MySQL               ████████████████   Learned ✅
+CRUD Operations     ████████████████   Learned ✅
+MVC Architecture    ████████████████   Learned ✅
+React.js            ██████░░░░░░░░░░   Currently Learning
+Tailwind CSS        █████░░░░░░░░░░░   Currently Learning
 ```
 
 ---
@@ -171,15 +198,7 @@ SQL & MongoDB     ████░░░░░░░░░░░░   In Progress
 
 ## 🌐 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekaaryabgp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" /> &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekaaryabgp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekaaryabgp&theme=tokyonight&hide_border=true" width="60%" /> </p>
 
 ---
 
